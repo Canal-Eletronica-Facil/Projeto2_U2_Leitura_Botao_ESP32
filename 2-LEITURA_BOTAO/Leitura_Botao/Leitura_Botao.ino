@@ -3,7 +3,7 @@
 //............. BLOCO 1 - NOMEAR PINOS USADOS NO PROJETO .............//
 
 int LED1 = 27;      // Seleciona o nome LED1 para o GPIO 27 do ESP32
-int BOTAO_1 = 35;   // Seleciona o nome LED1 para o GPIO 35 do ESP32
+int BOTAO_1 = 35;   // Seleciona o nome BOTAO_1 para o GPIO 35 do ESP32
 
 int VALOR_B1 = 0;   // Seleciona uma variável para armazenar o estado digital
                     // do botão 1, ou seja 1 ou 0 / HIGH ou LOW
